@@ -18,7 +18,7 @@ Advanced高级应用模板：[官方安装文档](https://github.com/yiisoft/yii
 Advanced目录结构：
 ```
 frontend与backend
-前后台入口，各自都有着自己的【MVC目录(models|views|controllers)、配置文件目录(config)、入口文件目录(web)、资源文件目录(assets)】。
+前后台入口，都有着各自的【MVC目录(models|views|controllers)、配置文件目录(config)、入口文件目录(web)、资源文件目录(assets)】。
 
 console
 控制台入口，用来控制执行的程序，比如放一些定时执行的程序，或者需要在更底层的操作系统上运行的功能。
