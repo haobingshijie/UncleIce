@@ -30,7 +30,7 @@ environments
 放环境的配置文件。
 ```
 
-__DIR__ 返回当前文件的目录:
+__ DIR __ 返回当前文件的目录:
 ```
     eg: D:\wamp\WWW\phpinfo.php
         echo __DIR__;
