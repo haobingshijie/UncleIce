@@ -29,3 +29,20 @@ common
 environments
 放环境的配置文件。
 ```
+
+__DIR__ 返回当前文件的目录:
+```
+    eg: D:\wamp\WWW\phpinfo.php
+        echo __DIR__;
+        D:\wamp\WWW
+```
+
+dirname() 返回当前文件路径的上一级:
+```
+    eg: D:\wamp\WWW\phpinfo.php
+        1.
+            echo dirname('D:\wamp\WWW\phpinfo.php');
+            D:\wamp\WWW
+        2.  echo dirname(__DIR__);
+            D:\wamp
+```
