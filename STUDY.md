@@ -30,7 +30,7 @@ environments
 放环境的配置文件。
 ```
 
-__ DIR __ 返回当前文件的目录:
+\_\_DIR\_\_ 返回当前文件的目录:
 ```
     eg: D:\wamp\WWW\phpinfo.php
         echo __DIR__;
@@ -40,9 +40,10 @@ __ DIR __ 返回当前文件的目录:
 dirname() 返回当前文件路径的上一级:
 ```
     eg: D:\wamp\WWW\phpinfo.php
-        1.
+        1、
             echo dirname('D:\wamp\WWW\phpinfo.php');
             D:\wamp\WWW
-        2.  echo dirname(__DIR__);
+        2、
+            echo dirname(__DIR__);
             D:\wamp
 ```
