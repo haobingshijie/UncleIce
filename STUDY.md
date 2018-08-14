@@ -60,6 +60,6 @@ hasOne、hasMany方法的使用原则：
 2、hasMany 一对多的情况。eg：一篇文章有多个评论
 ```
 
-hasOne查询关联数据：
+hasOne、hasMany查询关联数据：
 
 ![avatar](./查询关联数据.jpg)
