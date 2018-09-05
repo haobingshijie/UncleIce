@@ -1,4 +1,4 @@
-<h1>Yii2 学习笔记 - HH</h1>
+<h1>Yii2 笔记 - HH</h1>
 
 Advanced高级应用模板：[官方安装文档](https://github.com/yiisoft/yii2-app-advanced/blob/master/docs/guide/start-installation.md)
 
